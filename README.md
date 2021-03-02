@@ -17,7 +17,7 @@ as my PGP key will have expired. I will update this repository with new informat
 You can create a PGP message [here](https://heiswayi.github.io/pgp/).
 
 <details>
-  <summary><strong>Public Key</strong></summary>
+  <summary><strong>Public Key (click here!)</strong></summary>
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
