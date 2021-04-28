@@ -28,6 +28,7 @@ using **My Public Key**. For that, see below. I will be the only one who can dec
 If you send me a PGP Message AFTER March 2nd, 2025 at 6:30PM EST, I will not be able to decrypt your message
 as my PGP key will have expired. I will update this README with new information as soon as it expires.
 
+# Key Information
 <details>
   <summary><strong>Public Key (click here!)</strong></summary>
   
