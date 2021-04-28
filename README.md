@@ -15,8 +15,8 @@ You can create a PGP message [here](https://heiswayi.github.io/pgp/).
 It is recommended you use a pastebin (such as pastebin.com), or use my personal one [here](https://paste.bushy.cc).
 This is so I can see and copy the PGP encoded message. 
 
-Make sure you are sending the message to me on the respective platforms: Discord, Telegram
-**Telegram:** @bchubbs
+Make sure you are sending the message to me on the respective platforms: Discord, Telegram\
+**Telegram:** @bchubbs\
 **Discord:** LUKE#6283
 
 # Cryptocurrency Verification
