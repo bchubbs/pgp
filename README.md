@@ -1,4 +1,4 @@
-# PGP Contact Info
+# PGP Encryption Info
 This is my PGP contact information.
 
 Hey there, if you've made it this far, welcome to my PGP info page.
@@ -8,13 +8,25 @@ Note: To decrypt your message, I will need your **public key** as well as the **
 This is so only I can decrypt the message with my private key. If for some reason I cannot decrypt the message(s),
 i.e. "it takes too long", or "i dont have that info", then you can be positive you're NOT talking to me.
 
-I will always be able to decrypt the message so long as you encode the message with my public key.
-You can send me the PGP Message via a pastebin on Discord, Telegram, etc.
-
-**Note:** If you send a PGP Message AFTER March 2nd, 2025 at 6:30PM EST, I will not be able to decrypt your message
-as my PGP key will have expired. I will update this repository with new information as soon as it expires.
-
+# Create PGP message
 You can create a PGP message [here](https://heiswayi.github.io/pgp/).
+
+# Sending me the PGP message
+It is recommended you use a pastebin (such as pastebin.com), or use my personal one [here](https://paste.bushy.cc).
+This is so I can see and copy the PGP encoded message. 
+
+Make sure you are sending the message to me on the respective platforms: Discord, Telegram
+**Telegram:** @bchubbs
+**Discord:** LUKE#6283
+
+# Cryptocurrency Verification
+I can help you with your cryptocurrency needs! However, for all payment support, you will need to
+encrypt your message using PGP (Pretty Good Password). You can encrypt your message
+using **My Public Key**. For that, see below. I will be the only one who can decrypt the message.
+
+# Key Expiration
+If you send me a PGP Message AFTER March 2nd, 2025 at 6:30PM EST, I will not be able to decrypt your message
+as my PGP key will have expired. I will update this README with new information as soon as it expires.
 
 <details>
   <summary><strong>Public Key (click here!)</strong></summary>
